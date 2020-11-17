@@ -1,0 +1,5 @@
+global:
+  containerRegistry:
+    url: "REPLACE_THIS"
+    username: "REPLACE_THIS"
+    password: "REPLACE_THIS"
